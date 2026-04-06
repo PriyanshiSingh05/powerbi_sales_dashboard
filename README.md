@@ -18,7 +18,7 @@ The dashboard helps identify key business patterns, profit fluctuations, and cus
 
 ---
 
-## 📂 Data Sources
+## 1) Data Sources
 
 The dashboard is built using multiple datasets:
 
@@ -29,7 +29,7 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-## 🔗 Data Modeling
+## 2) Data Modeling
 
 * Established relationships between tables using a common key (e.g., Order ID)
 * Enabled cross-filtering between datasets for combined insights
@@ -37,7 +37,7 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-## 📊 Key Metrics (KPIs)
+## 3) Key Metrics (KPIs) 📊
 
 * **Total Revenue:** 438K
 * **Total Quantity Sold:** 5615
@@ -46,7 +46,7 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-## 📈 Dashboard Features
+## 4) Dashboard Features
 
 * KPI Cards for quick performance overview
 * Monthly profit trend analysis (profit vs loss)
@@ -58,16 +58,16 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
-### 💰 Revenue & Profit
+### 1) Revenue & Profit
 
 * The business generated a total revenue of **438K** with an overall profit of **37K**
 * Profit margins vary significantly across months, indicating inconsistent performance
 
 ---
 
-### 📅 Monthly Trends
+### 2) Monthly Trends
 
 * **Highest profit observed in November and January**
 * **Significant losses recorded in May, July, September, and December**
@@ -75,7 +75,7 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-### 🛍️ Category Performance
+### 3) Category Performance
 
 * **Clothing dominates sales with ~63% contribution**
 * Electronics contributes around 21%
@@ -85,7 +85,7 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-### 📦 Sub-Category Insights
+### 4) Sub-Category Insights
 
 * **Printers generate the highest profit**
 * **Bookcases also contribute significantly to profitability**
@@ -93,7 +93,7 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-### 🌍 State-wise Sales
+### 5) State-wise Sales
 
 * **Maharashtra leads in total sales**
 * Followed by Madhya Pradesh and Uttar Pradesh
@@ -101,14 +101,14 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-### 👥 Customer Insights
+### 6) Customer Insights
 
 * Certain customers (e.g., Harivansh, Madhav) contribute significantly more to revenue
 * Indicates presence of high-value customers
 
 ---
 
-### 💳 Payment Mode Analysis
+### 7) Payment Mode Analysis
 
 * **Cash on Delivery (COD) dominates with ~44%**
 * UPI contributes around 21%
@@ -118,7 +118,7 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Microsoft Power BI
 * Power Query (Data Cleaning & Transformation)
@@ -127,7 +127,7 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview 📷
 
 ![Dashboard](sales_dashboardpic.png)
 
@@ -135,7 +135,7 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 
 
-## 📁 Files Included
+##  Files Included
 
 * `sales_dashboard.pbix` → Power BI project file
 * `sales_dashboardpic.png` → Dashboard preview image
@@ -143,7 +143,7 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add advanced DAX measures (Profit Margin, YoY Growth)
 * Implement drill-through and tooltip pages
@@ -152,7 +152,7 @@ These datasets were integrated using relationships in Power BI to create a unifi
 
 ---
 
-## 💡 Conclusion
+##  Conclusion
 
 This dashboard demonstrates strong capabilities in:
 
@@ -163,4 +163,4 @@ This dashboard demonstrates strong capabilities in:
 
 ---
 
-✨ This project reflects the ability to transform raw data into actionable business insights using Power BI.
+ This project reflects the ability to transform raw data into actionable business insights using Power BI.
